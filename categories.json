@@ -2,11 +2,11 @@
   {
     "category": "Nakiri Ayame",
     "preview": "https://ios7.xyz/wallify/nakiriayame1lowres.png",
-    "json": "https://raw.githubusercontent.com/ios7jbpro/wallify/refs/heads/main/nakiriayame.json"
+    "json": "nakiriayame.json"
   },
   {
     "category": "Pixel",
     "preview": "https://raw.githubusercontent.com/ios7jbpro/wallify-walls/refs/heads/main/pixel/pix-green.jpg",
-    "json": "https://raw.githubusercontent.com/ios7jbpro/wallify-walls/refs/heads/main/pixel.json"
+    "json": "pixel.json"
   }
 ]
