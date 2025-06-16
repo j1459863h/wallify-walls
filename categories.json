@@ -1,4 +1,9 @@
 [
+  {
+    "category": "Pixel Art",
+    "preview": "pixelart/pixelart.json",
+    "json": "pixelart/pixelart.json"
+  },
  {
     "category": "Wafers",
     "preview": "wafers/1.png",
