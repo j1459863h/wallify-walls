@@ -1,4 +1,9 @@
 [
+ {
+    "category": "Wafers",
+    "preview": "wafers/1.png",
+    "json": "wafers/wafers.json"
+  },
   {
     "category": "Nakiri Ayame",
     "preview": "test.jpg",
