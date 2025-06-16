@@ -10,6 +10,11 @@
     "json": "wafers/wafers.json"
   },
   {
+    "category": "Phantom Trails",
+    "preview": "phantom-trails/1.png",
+    "json": "phantom-trails/phantomtrails.json"
+  },
+  {
     "category": "Nakiri Ayame",
     "preview": "test.jpg",
     "json": "nakiriayame.json"
