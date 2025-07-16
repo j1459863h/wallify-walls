@@ -20,11 +20,6 @@
     "json": "phantom-trails/phantomtrails.json"
   },
   {
-    "category": "Nakiri Ayame",
-    "preview": "test.jpg",
-    "json": "nakiriayame.json"
-  },
-  {
     "category": "Pixel",
     "preview": "pixel/pix-green.jpg",
     "json": "pixel.json"
