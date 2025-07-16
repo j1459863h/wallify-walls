@@ -1,4 +1,9 @@
 [
+    {
+    "category": "Anime",
+    "preview": "anime/1.jpg",
+    "json": "anime/anime.json"
+  },
   {
     "category": "Pixel Art",
     "preview": "pixelart/miku.png",
