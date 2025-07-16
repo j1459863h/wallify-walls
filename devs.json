@@ -18,5 +18,10 @@
 "name": "GPT4o - Wallpapers",
 "pfp": "https://raw.githubusercontent.com/j1459863h/wallify-walls/refs/heads/main/devs/gpt.jpg",
 "url": "https://chatgpt.com"
+},
+{
+"name": "PixAI - Wallpapers",
+"pfp": "https://raw.githubusercontent.com/j1459863h/wallify-walls/refs/heads/main/devs/pixai.png",
+"url": "https://pixai.art/"
 }
 ]
