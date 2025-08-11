@@ -1,5 +1,10 @@
 [
-    {
+  {
+    "category": "Profile Pictures",
+    "preview": "pfps/1.jpg",
+    "json": "pfps/pfps.json"
+  },
+  {
     "category": "Anime",
     "preview": "anime/1.jpg",
     "json": "anime/anime.json"
@@ -25,3 +30,4 @@
     "json": "pixel/pixel.json"
   }
 ]
+
